@@ -6,15 +6,15 @@ A multi-label language identification dataset based on regional Indian languages
 Fig. 1 : Sample examples from IIITG-MLRIT2022 
 ### Please cite the following papers if code or part of the code is used :
 
-
+```
 @article{naosekpam2023multi,
-  title={Multi-label Indian scene text language identification},<br />
-  author={Naosekpam, Veronica and Sahu, Nilkanta},<br />
-  journal={Intelligent Systems and Applications in Computer Vision},<br />
-  year={2023},<br />
-  publisher={CRC Press}<br />
+  title={Multi-label Indian scene text language identification},
+  author={Naosekpam, Veronica and Sahu, Nilkanta},
+  journal={Intelligent Systems and Applications in Computer Vision},
+  year={2023},
+  publisher={CRC Press}<
 }
-<br />
-or <br />
+```
+or 
 
 Naosekpam, Veronica, et al. "EMBiL: An English-Manipuri Bi-lingual Benchmark for Scene Text Detection and Language Identification." International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2023.
